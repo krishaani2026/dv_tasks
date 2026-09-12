@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme settings -->
+    <style name="Base.Theme.Tasking" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Global Window Background -->
+        <item name="android:windowBackground">@color/tasking_bg</item>
+
+        <!-- Global Status Bar Color -->
+        <item name="android:statusBarColor">@color/tasking_bg</item>
+
+        <!-- Default Material Color Roles -->
+        <item name="colorPrimary">@color/tasking_primary</item>
+        <item name="colorOnPrimary">@color/tasking_bg</item>
+    </style>
+
+    <!-- App theme declaration used by Manifest -->
+    <style name="Theme.Tasking" parent="Base.Theme.Tasking" />
+
+</resources>

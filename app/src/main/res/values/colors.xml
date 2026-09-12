@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tasking_bg">#0F172A</color>
+    <color name="tasking_card">#1E293B</color>
+    <color name="tasking_primary">#FF6B35</color>
+    <color name="tasking_text">#F8FAFC</color>
+    <color name="tasking_subtext">#94A3B8</color>
+    <color name="green_flag">#4CAF50</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom reusable button style inheriting from Material3 -->
+    <style name="PrimaryTaskButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/tasking_primary</item>
+        <item name="android:textColor">@color/tasking_bg</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>
